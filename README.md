@@ -182,9 +182,6 @@ Potential enhancements include:
 
 ---
 
-## 👨‍💻 Author
-Febin K S
-Python Developer
 Developed as a Front-End Developer assessment project using pure HTML, CSS, and JavaScript.
 
 **Urban Vogue © 2026**
