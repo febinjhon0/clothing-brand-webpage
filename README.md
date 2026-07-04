@@ -186,6 +186,7 @@ Developed as a Front-End Developer assessment project using pure HTML, CSS, and 
 
 ## 🚀 Live Demo
 
-🔗 https://clothing-brand-webpage.vercel.app/
+🔗 https://clothing-brand-webpage.vercel.app/  
+
 **Urban Vogue © 2026**
 
